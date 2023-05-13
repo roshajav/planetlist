@@ -1,8 +1,8 @@
 # React application that allows users to search for a planet from the Star Wars universe and returns a list of people who are from that planet, using the API hosted on https://swapi.dev.
 
-Step 1: Download the project from https://github.com/
+Step 1: Download the project from [https://github.com/](https://github.com/roshajav/planetlist.git)
 
-Step 2: Install the node module package using the command npm install
+Step 2: Install the node module package using the command npm install. Please make sure you have the node package installed on your system. 
 
 Step 3: Now your application is ready start. Use the following command npm start to start your application.
 
